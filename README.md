@@ -143,14 +143,14 @@ However, for this assignment, you will be required to use **at least four differ
 The following are the requirements for Stage 1 of this assignment:
 
 1. Download the data set from the Semantic140 website
-2. Examine the data, learn what each column in the training set CSV file mean, etc.
+2. Examine the data, learn what each column in the training set CSV file means, etc.
 3. Research and install the various tools you might use to perform the assignment, such as NLTK, TextBlob, and SciKit Learn. 
 4. Create your training set / test set split (10% of the data should be used for testing)
 5. Decide on four text augmentation techniques you think make sense for this data set
 
 ### Stage 2
 
-Stage 2 of the assignment will be updated in due course. However, in this stage of the experiment you will train a model to perform the sentiment classification of your test set. You will compare a baseline (without augmentation) to a model trained with text augmentation. In this stage you will need to pre-process the data set, and decide how you will implement text augmentation on the pre-process data set. What does pre-processing mean? For example you may want to replace all timestamps with either 0 for daytime or 1 for night time.
+Stage 2 of the assignment will be updated in due course. Brielfly, in this stage of the experiment you will train a model to perform the sentiment classification of your test set. You will compare a baseline (without augmentation) to a model trained with text augmentation. In this stage you will need to pre-process the data set, and decide how you will implement text augmentation on the pre-processed data set. What does pre-processing mean? For example you may want to replace all timestamps with either 0 for daytime or 1 for night time.
 
 *This section will be updated in due course.*
 
