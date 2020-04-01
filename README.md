@@ -70,9 +70,9 @@ This is a binary classification problem. Each tweet in the training set is class
 | 4 | 2174489472 | Sun Jun 14 22:39:40 PDT 2009 | NO_QUERY | RachelBrammer | Another scary movie with the girls  CWH(: |
 | 4 | 2174504162 | Sun Jun 14 22:41:33 PDT 2009 | NO_QUERY | kenbank | Thougjht I'd shove a tweet out to all my followers! You Rock! |
 
-Note: the test set contains a third, neutral class (2). We will ignore this class for this assignment. 
+*Note: the test set contains a third, neutral class (2). We will ignore this class for this assignment.*
 
-It is your task to create a model to predict this class. You can test your model's accuracy using a held back portion of the data - the test set.
+It is your task to create a model to predict either a negative (0) or positve (4) sentiment. You can test your model's accuracy using a held back portion of the data - the test set.
 
 ### Creating the Test Set
 
