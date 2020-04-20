@@ -162,6 +162,8 @@ To submit, just email your Jupyter `.ipynb` file. Name the file stage1 or stage2
 
 `stage1-07316596.ipynb`
 
+**Please ensure that you send the `.ipynb` file** and not an exported HTML version of the notebook!
+
 ## Contact 
 
 For questions, please simply create issues in this repository:
