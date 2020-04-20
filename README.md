@@ -154,6 +154,14 @@ Stage 2 of the assignment will be updated in due course. Brielfly, in this stage
 
 *This section will be updated in due course.*
 
+## Submission
+
+Your assignments should be submitted in the form of Jupyter notebooks. You should submit one notebook per stage. The first notebook is due at the end of April, **therefore stage 1 is due on or before the 30th of April 2020**.
+
+To submit, just email your Jupyter `.ipynb` file. Name the file stage1 or stage2 + your matriculation number e.g. something like the following:
+
+`stage1-07316596.ipynb`
+
 ## Contact 
 
 For questions, please simply create issues in this repository:
