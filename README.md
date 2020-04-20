@@ -72,7 +72,7 @@ This is a binary classification problem. Each tweet in the training set is class
 
 *Note: the test set contains a third, neutral class (2). We will ignore this class for this assignment.*
 
-It is your task to create a model to predict either a negative (0) or positve (4) sentiment. You can test your model's accuracy using a held back portion of the data - the test set.
+It is your task to create a model to predict either a negative (0) or positive (4) sentiment. You can test your model's accuracy using a held back portion of the data - the test set.
 
 ### Creating the Test Set
 
