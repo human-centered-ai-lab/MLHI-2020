@@ -150,9 +150,7 @@ The following are the requirements for Stage 1 of this assignment:
 
 ### Stage 2
 
-Stage 2 of the assignment will be updated in due course. Brielfly, in this stage of the experiment you will train a model to perform the sentiment classification of your test set. You will compare a baseline (without augmentation) to a model trained with text augmentation. In this stage you will need to pre-process the data set, and decide how you will implement text augmentation on the pre-processed data set. What does pre-processing mean? For example you may want to replace all timestamps with either 0 for daytime or 1 for night time.
-
-*This section will be updated in due course.*
+In this stage of the experiment you will train a model to perform the sentiment classification of your test set. You will compare a baseline (without augmentation) to a model trained with text augmentation. In this stage you will need to pre-process the data set, and decide how you will implement text augmentation on the pre-processed data set. What does pre-processing mean? For example you may want to replace all timestamps with either 0 for daytime or 1 for night time.
 
 ## Submission
 
